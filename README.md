@@ -1,4 +1,7 @@
 # hello
 This is 1st repo
 
-![](./cat.gif)
+Awesome cat:
+
+
+![awesome cat](./cat.gif)
